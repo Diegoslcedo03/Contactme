@@ -1,0 +1,12 @@
+En este proyecto se aprendieron muchas cosa integracion de codigo html con codigo php, lo mas interesante fue el proyecto.
+
+1.Se creo el formulario.
+2.se creo el codigo que valida el formulario.
+3.Aprendi a colocar php directo en la terminal, para usarlo en vscode.
+4.Instale composer el cual es un gestor qque me permite descargar paquetes.
+5.con composer instale el paquete de php/mailer para poder mandar los correos.
+6.En un principio use mailtrap para las bandajes de prueba(fake) para probar el funcionamiento.
+7. lusegoya lo hice con la aplicacion de gemil. ojo para gemail es un poco diferente.
+
+-Hay que ir a gmail, administrar tu cuenta, seguridad, contraseñas de alicaciones o sitios, crear nuevo sitio y ahi me dan la
+contraseña que coloco en la logica junto con el correo.
